@@ -19,8 +19,7 @@
     text-align: center;
 }
 
-p,
-li {
+p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 24px;
     color: black;
@@ -34,4 +33,9 @@ h4,
 h5 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: bold;
+}
+
+li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
 }
