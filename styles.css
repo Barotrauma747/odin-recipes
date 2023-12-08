@@ -1,6 +1,6 @@
 /* Stylesheet for Lasagna */
 *{
-    background-color: #e8c791;
+    background-color: rgb(105, 48, 48);
 }
 
 .recipe {
@@ -33,6 +33,11 @@ h4,
 h5 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: bold;
+}
+
+.header {
+    margin: auto;
+    padding: 1em;
 }
 
 li {
